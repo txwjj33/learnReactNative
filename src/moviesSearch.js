@@ -1,3 +1,4 @@
+<script src="http://10.60.45.174:8097"></script>
 import React, { Component } from 'react';
 import {
   StyleSheet,
